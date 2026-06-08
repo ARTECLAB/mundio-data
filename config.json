@@ -1,17 +1,17 @@
 {
-  "version": 1,
+  "version": 2,
   "agency": {
-    "name": "Andes Travel La Paz",
-    "logoUrl": "https://TU-AGENCIA.github.io/assets/logo.png",
-    "primaryColorHex": "#1B998B",
-    "paymentQrUrl": "https://TU-AGENCIA.github.io/assets/qr-pago.png",
+    "name": "Maya Travel México",
+    "logoUrl": "https://loremflickr.com/200/200/travel,logo/5",
+    "primaryColorHex": "#0E7C66",
+    "paymentQrUrl": "https://api.qrserver.com/v1/create-qr-code/?size=320x320&data=Pago%20Maya%20Travel%20Mexico",
     "contacts": [
-      { "name": "Recepción", "whatsapp": "+59170000000" },
-      { "name": "Reservas", "whatsapp": "+59171111111" }
+      { "name": "Reservas", "whatsapp": "+5215555555555" },
+      { "name": "Atención al cliente", "whatsapp": "+5215544444444" }
     ],
     "reservationMessageTemplate": {
-      "es": "¡Hola! 🌎 Me encantó el recorrido \"{tourName}\" ({price}). ¿Me ayudas con la reserva? 😊",
-      "en": "Hi! 🌎 I loved the \"{tourName}\" tour ({price}). Could you help me book it? 😊"
+      "es": "¡Hola Maya Travel! 🌎✨ Me encantó el tour \"{tourName}\" ({price}). ¿Me ayudan a reservar mi lugar? 😊",
+      "en": "Hi Maya Travel! 🌎✨ I loved the \"{tourName}\" tour ({price}). Could you help me book my spot? 😊"
     },
     "defaultLanguage": "es",
     "supportedLanguages": ["es", "en"]
