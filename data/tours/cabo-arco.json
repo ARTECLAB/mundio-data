@@ -1,0 +1,14 @@
+{
+  "id": "cabo-arco",
+  "geometry": { "type": "point", "coordinates": [{ "lat": 22.8870, "lng": -109.8920 }] },
+  "i18n": {
+    "es": { "name": "El Arco de Cabo San Lucas", "description": "El icónico arco de roca donde el desierto se funde con el mar. Recorre en lancha playas escondidas, saluda a los lobos marinos y termina el día con un atardecer dorado sobre el Pacífico. Inolvidable." },
+    "en": { "name": "Cabo San Lucas Arch", "description": "The iconic rock arch where desert meets sea. Boat past hidden beaches, greet the sea lions and end the day with a golden Pacific sunset. Unforgettable." }
+  },
+  "price": { "amount": 1100, "currency": "MXN" },
+  "media": [
+    { "type": "image", "url": "https://loremflickr.com/800/500/cabo,arch/17" },
+    { "type": "image", "url": "https://loremflickr.com/800/500/cabo,san,lucas,beach/18" }
+  ],
+  "places": []
+}
