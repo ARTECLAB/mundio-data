@@ -1,34 +1,23 @@
 {
-  "dataVersion": 1,
+  "dataVersion": 2,
   "lastUpdated": "2026-06-08",
   "levelLabels": [
     { "es": "País", "en": "Country" },
-    { "es": "Departamento", "en": "State" },
-    { "es": "Provincia", "en": "Province" },
-    { "es": "Municipio", "en": "Municipality" }
+    { "es": "Estado", "en": "State" }
   ],
   "locations": [
     {
-      "id": "bo",
-      "name": { "es": "Bolivia", "en": "Bolivia" },
+      "id": "mx",
+      "name": { "es": "México", "en": "Mexico" },
       "children": [
-        {
-          "id": "bo-lpz",
-          "name": { "es": "La Paz", "en": "La Paz" },
-          "children": [
-            {
-              "id": "bo-lpz-murillo",
-              "name": { "es": "Murillo", "en": "Murillo" },
-              "children": [
-                {
-                  "id": "bo-lpz-ciudad",
-                  "name": { "es": "La Paz (ciudad)", "en": "La Paz (city)" },
-                  "tours": ["tours/tour-001.json"]
-                }
-              ]
-            }
-          ]
-        }
+        { "id": "mx-yuc", "name": { "es": "Yucatán", "en": "Yucatán" }, "tours": ["tours/chichen-itza.json"] },
+        { "id": "mx-qroo", "name": { "es": "Quintana Roo", "en": "Quintana Roo" }, "tours": ["tours/tulum.json"] },
+        { "id": "mx-mex", "name": { "es": "Estado de México", "en": "State of Mexico" }, "tours": ["tours/teotihuacan.json"] },
+        { "id": "mx-chis", "name": { "es": "Chiapas", "en": "Chiapas" }, "tours": ["tours/palenque.json", "tours/sumidero.json"] },
+        { "id": "mx-oax", "name": { "es": "Oaxaca", "en": "Oaxaca" }, "tours": ["tours/hierve-el-agua.json", "tours/monte-alban.json"] },
+        { "id": "mx-gto", "name": { "es": "Guanajuato", "en": "Guanajuato" }, "tours": ["tours/guanajuato.json"] },
+        { "id": "mx-bcs", "name": { "es": "Baja California Sur", "en": "Baja California Sur" }, "tours": ["tours/cabo-arco.json"] },
+        { "id": "mx-cdmx", "name": { "es": "Ciudad de México", "en": "Mexico City" }, "tours": ["tours/xochimilco.json"] }
       ]
     }
   ]
