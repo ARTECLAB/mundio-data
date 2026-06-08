@@ -1,0 +1,46 @@
+{
+  "id": "tour-001",
+  "geometry": {
+    "type": "polyline",
+    "coordinates": [
+      { "lat": -16.4955, "lng": -68.1336 },
+      { "lat": -16.5000, "lng": -68.1450 },
+      { "lat": -16.5200, "lng": -68.1100 }
+    ]
+  },
+  "i18n": {
+    "es": {
+      "name": "City Tour La Paz",
+      "description": "Recorrido por el centro histórico, el Mercado de las Brujas y los miradores de la ciudad."
+    },
+    "en": {
+      "name": "La Paz City Tour",
+      "description": "A walk through the historic center, the Witches' Market and the city viewpoints."
+    }
+  },
+  "price": { "amount": 150, "currency": "BOB" },
+  "media": [
+    { "type": "image", "url": "https://TU-AGENCIA.github.io/assets/citytour-1.jpg" },
+    { "type": "youtube", "videoId": "dQw4w9WgXcQ" }
+  ],
+  "places": [
+    {
+      "id": "place-plaza-murillo",
+      "geometry": { "type": "point", "coordinates": [{ "lat": -16.4955, "lng": -68.1336 }] },
+      "i18n": {
+        "es": { "name": "Plaza Murillo", "description": "Plaza principal y corazón político de Bolivia." },
+        "en": { "name": "Murillo Square", "description": "Main square and political heart of Bolivia." }
+      },
+      "media": [{ "type": "image", "url": "https://TU-AGENCIA.github.io/assets/plaza-murillo.jpg" }]
+    },
+    {
+      "id": "place-mercado-brujas",
+      "geometry": { "type": "point", "coordinates": [{ "lat": -16.4970, "lng": -68.1380 }] },
+      "i18n": {
+        "es": { "name": "Mercado de las Brujas", "description": "Mercado tradicional de artículos rituales andinos." },
+        "en": { "name": "Witches' Market", "description": "Traditional market of Andean ritual goods." }
+      },
+      "media": [{ "type": "image", "url": "https://TU-AGENCIA.github.io/assets/mercado-brujas.jpg" }]
+    }
+  ]
+}

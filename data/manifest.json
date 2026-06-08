@@ -1,0 +1,35 @@
+{
+  "dataVersion": 1,
+  "lastUpdated": "2026-06-08",
+  "levelLabels": [
+    { "es": "País", "en": "Country" },
+    { "es": "Departamento", "en": "State" },
+    { "es": "Provincia", "en": "Province" },
+    { "es": "Municipio", "en": "Municipality" }
+  ],
+  "locations": [
+    {
+      "id": "bo",
+      "name": { "es": "Bolivia", "en": "Bolivia" },
+      "children": [
+        {
+          "id": "bo-lpz",
+          "name": { "es": "La Paz", "en": "La Paz" },
+          "children": [
+            {
+              "id": "bo-lpz-murillo",
+              "name": { "es": "Murillo", "en": "Murillo" },
+              "children": [
+                {
+                  "id": "bo-lpz-ciudad",
+                  "name": { "es": "La Paz (ciudad)", "en": "La Paz (city)" },
+                  "tours": ["tours/tour-001.json"]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

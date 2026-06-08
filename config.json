@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "agency": {
+    "name": "Andes Travel La Paz",
+    "logoUrl": "https://TU-AGENCIA.github.io/assets/logo.png",
+    "primaryColorHex": "#1B998B",
+    "paymentQrUrl": "https://TU-AGENCIA.github.io/assets/qr-pago.png",
+    "contacts": [
+      { "name": "Recepción", "whatsapp": "+59170000000" },
+      { "name": "Reservas", "whatsapp": "+59171111111" }
+    ],
+    "reservationMessageTemplate": {
+      "es": "¡Hola! 🌎 Me encantó el recorrido \"{tourName}\" ({price}). ¿Me ayudas con la reserva? 😊",
+      "en": "Hi! 🌎 I loved the \"{tourName}\" tour ({price}). Could you help me book it? 😊"
+    },
+    "defaultLanguage": "es",
+    "supportedLanguages": ["es", "en"]
+  },
+  "dataManifestUrl": "https://TU-AGENCIA.github.io/data/manifest.json"
+}
