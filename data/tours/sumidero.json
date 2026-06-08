@@ -1,0 +1,14 @@
+{
+  "id": "sumidero",
+  "geometry": { "type": "point", "coordinates": [{ "lat": 16.8520, "lng": -93.0760 }] },
+  "i18n": {
+    "es": { "name": "Cañón del Sumidero", "description": "Navega en lancha entre paredes de roca de mil metros de altura. Cocodrilos tomando sol, cascadas que caen del cielo y una de las vistas más sobrecogedoras de México. Pura adrenalina y naturaleza." },
+    "en": { "name": "Sumidero Canyon", "description": "Cruise by boat between rock walls a thousand meters high. Sunbathing crocodiles, waterfalls falling from the sky and one of Mexico's most breathtaking views. Pure adrenaline and nature." }
+  },
+  "price": { "amount": 700, "currency": "MXN" },
+  "media": [
+    { "type": "image", "url": "https://loremflickr.com/800/500/sumidero,canyon/9" },
+    { "type": "image", "url": "https://loremflickr.com/800/500/chiapas,river,canyon/10" }
+  ],
+  "places": []
+}

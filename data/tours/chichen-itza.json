@@ -1,0 +1,15 @@
+{
+  "id": "chichen-itza",
+  "geometry": { "type": "point", "coordinates": [{ "lat": 20.6843, "lng": -88.5678 }] },
+  "i18n": {
+    "es": { "name": "Chichén Itzá", "description": "Una de las Siete Maravillas del Mundo. Camina ante la imponente pirámide de Kukulcán, descifra el calendario maya tallado en piedra y siente el eco de una civilización milenaria bajo el sol de Yucatán. Una experiencia que se queda contigo para siempre." },
+    "en": { "name": "Chichén Itzá", "description": "One of the New Seven Wonders of the World. Stand before the towering Kukulcán pyramid, read the Maya calendar carved in stone and feel the echo of a thousand-year-old civilization under the Yucatán sun. An experience that stays with you forever." }
+  },
+  "price": { "amount": 950, "currency": "MXN" },
+  "media": [
+    { "type": "image", "url": "https://loremflickr.com/800/500/chichen,itza/1" },
+    { "type": "image", "url": "https://loremflickr.com/800/500/maya,pyramid,mexico/2" },
+    { "type": "youtube", "videoId": "dQw4w9WgXcQ" }
+  ],
+  "places": []
+}

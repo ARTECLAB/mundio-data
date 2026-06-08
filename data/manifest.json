@@ -17,7 +17,7 @@
         { "id": "mx-oax", "name": { "es": "Oaxaca", "en": "Oaxaca" }, "tours": ["tours/hierve-el-agua.json", "tours/monte-alban.json"] },
         { "id": "mx-gto", "name": { "es": "Guanajuato", "en": "Guanajuato" }, "tours": ["tours/guanajuato.json"] },
         { "id": "mx-bcs", "name": { "es": "Baja California Sur", "en": "Baja California Sur" }, "tours": ["tours/cabo-arco.json"] },
-        { "id": "mx-cdmx", "name": { "es": "Ciudad de México", "en": "Mexico City" }, "tours": ["tours/xochimilco.json"] }
+        { "id": "mx-cdmx", "name": { "es": "Ciudad de México", "en": "Mexico City" }, "tours": ["tours/xochimilco.json", "tours/cdmx-ruta-dia.json"] }
       ]
     }
   ]

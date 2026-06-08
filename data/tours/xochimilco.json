@@ -1,0 +1,14 @@
+{
+  "id": "xochimilco",
+  "geometry": { "type": "point", "coordinates": [{ "lat": 19.2570, "lng": -99.1030 }] },
+  "i18n": {
+    "es": { "name": "Trajineras de Xochimilco", "description": "Navega los antiguos canales aztecas a bordo de una trajinera multicolor. Mariachis, antojitos, flores y alegría flotando en el corazón de la Ciudad de México. La fiesta más auténtica sobre el agua." },
+    "en": { "name": "Xochimilco Trajineras", "description": "Glide along the ancient Aztec canals aboard a colorful trajinera. Mariachis, street food, flowers and joy floating in the heart of Mexico City. The most authentic party on the water." }
+  },
+  "price": { "amount": 550, "currency": "MXN" },
+  "media": [
+    { "type": "image", "url": "https://loremflickr.com/800/500/xochimilco/19" },
+    { "type": "image", "url": "https://loremflickr.com/800/500/mexico,trajinera,canal/20" }
+  ],
+  "places": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "guanajuato",
+  "geometry": { "type": "point", "coordinates": [{ "lat": 21.0178, "lng": -101.2546 }] },
+  "i18n": {
+    "es": { "name": "Guanajuato Colonial", "description": "Callejones de colores, túneles subterráneos y leyendas románticas como el Callejón del Beso. Una ciudad Patrimonio de la Humanidad que enamora a cada paso, con música de estudiantinas al caer la noche." },
+    "en": { "name": "Colonial Guanajuato", "description": "Colorful alleyways, underground tunnels and romantic legends like the Alley of the Kiss. A World Heritage city that wins your heart at every step, with student serenades as night falls." }
+  },
+  "price": { "amount": 800, "currency": "MXN" },
+  "media": [
+    { "type": "image", "url": "https://loremflickr.com/800/500/guanajuato/15" },
+    { "type": "image", "url": "https://loremflickr.com/800/500/mexico,colonial,city/16" }
+  ],
+  "places": []
+}

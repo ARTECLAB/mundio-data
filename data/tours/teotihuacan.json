@@ -1,0 +1,15 @@
+{
+  "id": "teotihuacan",
+  "geometry": { "type": "point", "coordinates": [{ "lat": 19.6925, "lng": -98.8438 }] },
+  "i18n": {
+    "es": { "name": "Teotihuacán", "description": "Sube a la Pirámide del Sol y domina la legendaria Ciudad de los Dioses. Recorre la Calzada de los Muertos y déjate sobrecoger por una metrópoli que floreció hace dos mil años. Opción de vuelo en globo al amanecer." },
+    "en": { "name": "Teotihuacán", "description": "Climb the Pyramid of the Sun and command the legendary City of the Gods. Walk the Avenue of the Dead and be awed by a metropolis that flourished two thousand years ago. Sunrise hot-air balloon option available." }
+  },
+  "price": { "amount": 850, "currency": "MXN" },
+  "media": [
+    { "type": "image", "url": "https://loremflickr.com/800/500/teotihuacan/5" },
+    { "type": "image", "url": "https://loremflickr.com/800/500/pyramid,mexico,sun/6" },
+    { "type": "youtube", "videoId": "dQw4w9WgXcQ" }
+  ],
+  "places": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "tulum",
+  "geometry": { "type": "point", "coordinates": [{ "lat": 20.2149, "lng": -87.4291 }] },
+  "i18n": {
+    "es": { "name": "Ruinas de Tulum", "description": "El único sitio maya frente al mar Caribe. Ruinas amuralladas sobre acantilados de piedra, aguas turquesa que cortan la respiración y una playa de postal a tus pies. Historia y paraíso en un mismo lugar." },
+    "en": { "name": "Tulum Ruins", "description": "The only Maya site overlooking the Caribbean Sea. Walled ruins atop stone cliffs, breathtaking turquoise waters and a postcard beach at your feet. History and paradise in one place." }
+  },
+  "price": { "amount": 750, "currency": "MXN" },
+  "media": [
+    { "type": "image", "url": "https://loremflickr.com/800/500/tulum,ruins/3" },
+    { "type": "image", "url": "https://loremflickr.com/800/500/tulum,beach,caribbean/4" }
+  ],
+  "places": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "palenque",
+  "geometry": { "type": "point", "coordinates": [{ "lat": 17.4848, "lng": -92.0461 }] },
+  "i18n": {
+    "es": { "name": "Palenque", "description": "Templos mayas envueltos en selva esmeralda y bruma. Descubre la tumba del rey Pakal, escucha a los monos aulladores y siente la magia de uno de los sitios arqueológicos más bellos del planeta." },
+    "en": { "name": "Palenque", "description": "Maya temples wrapped in emerald jungle and mist. Discover the tomb of King Pakal, listen to the howler monkeys and feel the magic of one of the most beautiful archaeological sites on Earth." }
+  },
+  "price": { "amount": 900, "currency": "MXN" },
+  "media": [
+    { "type": "image", "url": "https://loremflickr.com/800/500/palenque,maya/7" },
+    { "type": "image", "url": "https://loremflickr.com/800/500/chiapas,jungle,ruins/8" }
+  ],
+  "places": []
+}

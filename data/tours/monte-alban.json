@@ -1,0 +1,14 @@
+{
+  "id": "monte-alban",
+  "geometry": { "type": "point", "coordinates": [{ "lat": 17.0436, "lng": -96.7676 }] },
+  "i18n": {
+    "es": { "name": "Monte Albán", "description": "La antigua capital zapoteca coronando una montaña. Plazas ceremoniales, tumbas milenarias y vistas de 360° sobre los valles de Oaxaca. Historia, arte y panorámicas que te dejan sin palabras." },
+    "en": { "name": "Monte Albán", "description": "The ancient Zapotec capital crowning a mountain. Ceremonial plazas, ancient tombs and 360° views over the valleys of Oaxaca. History, art and panoramas that leave you speechless." }
+  },
+  "price": { "amount": 600, "currency": "MXN" },
+  "media": [
+    { "type": "image", "url": "https://loremflickr.com/800/500/monte,alban/13" },
+    { "type": "image", "url": "https://loremflickr.com/800/500/oaxaca,ruins,zapotec/14" }
+  ],
+  "places": []
+}

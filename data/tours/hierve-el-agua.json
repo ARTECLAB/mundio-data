@@ -1,0 +1,14 @@
+{
+  "id": "hierve-el-agua",
+  "geometry": { "type": "point", "coordinates": [{ "lat": 16.8656, "lng": -96.2761 }] },
+  "i18n": {
+    "es": { "name": "Hierve el Agua", "description": "Cascadas petrificadas y piscinas naturales suspendidas sobre el valle. Nada en un balcón infinito tallado por el agua durante miles de años, con vistas que parecen del fin del mundo. Único en el planeta." },
+    "en": { "name": "Hierve el Agua", "description": "Petrified waterfalls and natural infinity pools suspended over the valley. Swim in a balcony carved by water over thousands of years, with views that feel like the edge of the world. One of a kind." }
+  },
+  "price": { "amount": 650, "currency": "MXN" },
+  "media": [
+    { "type": "image", "url": "https://loremflickr.com/800/500/hierve,agua/11" },
+    { "type": "image", "url": "https://loremflickr.com/800/500/oaxaca,waterfall,pool/12" }
+  ],
+  "places": []
+}
