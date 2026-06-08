@@ -16,5 +16,5 @@
     "defaultLanguage": "es",
     "supportedLanguages": ["es", "en"]
   },
-  "dataManifestUrl": "https://TU-AGENCIA.github.io/data/manifest.json"
+  "dataManifestUrl": "https://arteclab.github.io/mundio-data/data/manifest.json"
 }
