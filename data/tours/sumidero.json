@@ -7,8 +7,7 @@
   },
   "price": { "amount": 700, "currency": "MXN" },
   "media": [
-    { "type": "image", "url": "https://loremflickr.com/800/500/sumidero,canyon/9" },
-    { "type": "image", "url": "https://loremflickr.com/800/500/chiapas,river,canyon/10" }
+    { "type": "image", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ca%C3%B1%C3%B3n%20El%20Sumidero.jpg?width=800" }
   ],
   "places": []
 }

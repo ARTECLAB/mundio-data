@@ -7,8 +7,8 @@
   },
   "price": { "amount": 950, "currency": "MXN" },
   "media": [
-    { "type": "image", "url": "https://loremflickr.com/800/500/chichen,itza/1" },
-    { "type": "image", "url": "https://loremflickr.com/800/500/maya,pyramid,mexico/2" },
+    { "type": "image", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chichen%20Itza%203.jpg?width=800" },
+    { "type": "image", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chichen-Itza-Castillo-Seen-From-East.JPG?width=800" },
     { "type": "youtube", "videoId": "dQw4w9WgXcQ" }
   ],
   "places": []

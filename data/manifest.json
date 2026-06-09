@@ -1,6 +1,6 @@
 {
-  "dataVersion": 2,
-  "lastUpdated": "2026-06-08",
+  "dataVersion": 4,
+  "lastUpdated": "2026-06-09",
   "levelLabels": [
     { "es": "País", "en": "Country" },
     { "es": "Estado", "en": "State" }

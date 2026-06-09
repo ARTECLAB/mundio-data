@@ -7,21 +7,20 @@
   },
   "price": { "amount": 1200, "currency": "MXN" },
   "media": [
-    { "type": "image", "url": "https://loremflickr.com/800/500/mexico,city,zocalo/21" },
-    { "type": "image", "url": "https://loremflickr.com/800/500/bellas,artes,mexico/22" }
+    { "type": "image", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Palacio%20de%20Bellas%20Artes%20CDMX.JPG?width=800" }
   ],
   "places": [
     { "id": "cdmx-zocalo", "geometry": { "type": "point", "coordinates": [{ "lat": 19.4326, "lng": -99.1332 }] },
       "i18n": { "es": { "name": "Zócalo", "description": "La Plaza de la Constitución, corazón histórico y político de México." }, "en": { "name": "Zócalo", "description": "The Constitution Square, historic and political heart of Mexico." } },
-      "media": [{ "type": "image", "url": "https://loremflickr.com/800/500/zocalo,mexico/23" }] },
+      "media": [] },
     { "id": "cdmx-templo-mayor", "geometry": { "type": "point", "coordinates": [{ "lat": 19.4346, "lng": -99.1316 }] },
       "i18n": { "es": { "name": "Templo Mayor", "description": "Las ruinas del templo principal mexica, junto a la Catedral Metropolitana." }, "en": { "name": "Templo Mayor", "description": "The ruins of the main Mexica temple, next to the Metropolitan Cathedral." } },
-      "media": [{ "type": "image", "url": "https://loremflickr.com/800/500/templo,mayor,mexico/24" }] },
+      "media": [] },
     { "id": "cdmx-bellas-artes", "geometry": { "type": "point", "coordinates": [{ "lat": 19.4352, "lng": -99.1413 }] },
       "i18n": { "es": { "name": "Palacio de Bellas Artes", "description": "Joya art déco con murales de Diego Rivera y espectáculos de talla mundial." }, "en": { "name": "Palacio de Bellas Artes", "description": "Art déco gem with murals by Diego Rivera and world-class shows." } },
-      "media": [{ "type": "image", "url": "https://loremflickr.com/800/500/bellas,artes/25" }] },
+      "media": [{ "type": "image", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Palacio%20de%20Bellas%20Artes%20CDMX.JPG?width=800" }] },
     { "id": "cdmx-chapultepec", "geometry": { "type": "point", "coordinates": [{ "lat": 19.4204, "lng": -99.1817 }] },
       "i18n": { "es": { "name": "Castillo de Chapultepec", "description": "Castillo histórico sobre el bosque, con vistas al Paseo de la Reforma." }, "en": { "name": "Chapultepec Castle", "description": "Historic castle above the forest, overlooking Paseo de la Reforma." } },
-      "media": [{ "type": "image", "url": "https://loremflickr.com/800/500/chapultepec,castle/26" }] }
+      "media": [] }
   ]
 }

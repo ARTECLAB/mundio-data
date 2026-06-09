@@ -7,8 +7,7 @@
   },
   "price": { "amount": 750, "currency": "MXN" },
   "media": [
-    { "type": "image", "url": "https://loremflickr.com/800/500/tulum,ruins/3" },
-    { "type": "image", "url": "https://loremflickr.com/800/500/tulum,beach,caribbean/4" }
+    { "type": "image", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tulum-Seaside-2010.jpg?width=800" }
   ],
   "places": []
 }

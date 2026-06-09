@@ -7,8 +7,7 @@
   },
   "price": { "amount": 600, "currency": "MXN" },
   "media": [
-    { "type": "image", "url": "https://loremflickr.com/800/500/monte,alban/13" },
-    { "type": "image", "url": "https://loremflickr.com/800/500/oaxaca,ruins,zapotec/14" }
+    { "type": "image", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Monte%20Alb%C3%A1n%20archeological%20site%2C%20Oaxaca.jpg?width=800" }
   ],
   "places": []
 }

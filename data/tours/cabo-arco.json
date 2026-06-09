@@ -7,8 +7,7 @@
   },
   "price": { "amount": 1100, "currency": "MXN" },
   "media": [
-    { "type": "image", "url": "https://loremflickr.com/800/500/cabo,arch/17" },
-    { "type": "image", "url": "https://loremflickr.com/800/500/cabo,san,lucas,beach/18" }
+    { "type": "image", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20Arch%20of%20Cabo%20San%20Lucas.jpg?width=800" }
   ],
   "places": []
 }

@@ -7,8 +7,7 @@
   },
   "price": { "amount": 650, "currency": "MXN" },
   "media": [
-    { "type": "image", "url": "https://loremflickr.com/800/500/hierve,agua/11" },
-    { "type": "image", "url": "https://loremflickr.com/800/500/oaxaca,waterfall,pool/12" }
+    { "type": "image", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hierve%20el%20agua.JPG?width=800" }
   ],
   "places": []
 }

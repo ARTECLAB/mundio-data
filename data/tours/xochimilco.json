@@ -7,8 +7,7 @@
   },
   "price": { "amount": 550, "currency": "MXN" },
   "media": [
-    { "type": "image", "url": "https://loremflickr.com/800/500/xochimilco/19" },
-    { "type": "image", "url": "https://loremflickr.com/800/500/mexico,trajinera,canal/20" }
+    { "type": "image", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Coloridas%20trajineras%20en%20Xochimilco%2C%20Ciudad%20de%20M%C3%A9xico.jpg?width=800" }
   ],
   "places": []
 }

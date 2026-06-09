@@ -7,8 +7,7 @@
   },
   "price": { "amount": 800, "currency": "MXN" },
   "media": [
-    { "type": "image", "url": "https://loremflickr.com/800/500/guanajuato/15" },
-    { "type": "image", "url": "https://loremflickr.com/800/500/mexico,colonial,city/16" }
+    { "type": "image", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vista%20a%C3%A9rea%20de%20Guanajuato.jpg?width=800" }
   ],
   "places": []
 }

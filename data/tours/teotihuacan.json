@@ -7,8 +7,7 @@
   },
   "price": { "amount": 850, "currency": "MXN" },
   "media": [
-    { "type": "image", "url": "https://loremflickr.com/800/500/teotihuacan/5" },
-    { "type": "image", "url": "https://loremflickr.com/800/500/pyramid,mexico,sun/6" },
+    { "type": "image", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pir%C3%A1mide%20del%20Sol%20Teotihuacan.JPG?width=800" },
     { "type": "youtube", "videoId": "dQw4w9WgXcQ" }
   ],
   "places": []
