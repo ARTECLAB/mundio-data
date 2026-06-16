@@ -1,0 +1,14 @@
+{
+  "id": "salar-uyuni",
+  "geometry": { "type": "point", "coordinates": [{ "lat": -20.1338, "lng": -67.4891 }] },
+  "i18n": {
+    "es": { "name": "Salar de Uyuni", "description": "El mayor desierto de sal del mundo: más de 10.000 km² de blanco infinito a 3.660 m de altura. En temporada de lluvias se convierte en el espejo natural más grande del planeta, donde el cielo y la tierra se funden. Recorre la Isla Incahuasi cubierta de cactus gigantes y vive un atardecer que no olvidarás." },
+    "en": { "name": "Uyuni Salt Flats", "description": "The world's largest salt flat: over 10,000 km² of endless white at 3,660 m above sea level. In the rainy season it turns into the planet's largest natural mirror, where sky and earth merge. Explore Isla Incahuasi covered in giant cacti and enjoy an unforgettable sunset." }
+  },
+  "price": { "amount": 1500, "currency": "BOB" },
+  "media": [
+    { "type": "image", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Reflection%20on%20the%20Salar%20de%20Uyuni%2C%20bolivia.jpg?width=800" },
+    { "type": "youtube", "videoId": "dQw4w9WgXcQ" }
+  ],
+  "places": []
+}

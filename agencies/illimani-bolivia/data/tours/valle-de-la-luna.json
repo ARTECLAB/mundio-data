@@ -1,0 +1,13 @@
+{
+  "id": "valle-de-la-luna",
+  "geometry": { "type": "point", "coordinates": [{ "lat": -16.5672, "lng": -68.0944 }] },
+  "i18n": {
+    "es": { "name": "Valle de la Luna", "description": "Un paisaje lunar a sólo 10 km de La Paz: un laberinto de pináculos y cañones de arcilla erosionados durante milenios. Neil Armstrong le dio su nombre tras visitarlo. Recorre sus senderos entre formaciones de otro mundo con el Illimani en el horizonte. Ideal para una media jornada." },
+    "en": { "name": "Moon Valley", "description": "A lunar landscape just 10 km from La Paz: a maze of clay spires and canyons eroded over millennia. Neil Armstrong gave it its name after visiting. Wander its trails among otherworldly formations with Illimani on the horizon. Perfect for a half-day trip." }
+  },
+  "price": { "amount": 120, "currency": "BOB" },
+  "media": [
+    { "type": "image", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Valledelaluna-lapaz-bolivia.jpg?width=800" }
+  ],
+  "places": []
+}

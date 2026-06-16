@@ -1,0 +1,13 @@
+{
+  "id": "madidi",
+  "geometry": { "type": "point", "coordinates": [{ "lat": -14.4419, "lng": -67.5278 }] },
+  "i18n": {
+    "es": { "name": "Parque Nacional Madidi", "description": "Uno de los parques más biodiversos del planeta, donde los Andes se desploman en plena Amazonía. Más de 1.000 especies de aves, jaguares, caimanes y bosques infinitos. Navega el río Tuichi desde Rurrenabaque y adéntrate en la selva con guías de comunidades indígenas. Aventura de varios días." },
+    "en": { "name": "Madidi National Park", "description": "One of the most biodiverse parks on Earth, where the Andes plunge into the Amazon. Over 1,000 bird species, jaguars, caimans and endless forests. Cruise the Tuichi River from Rurrenabaque and venture into the jungle with Indigenous community guides. A multi-day adventure." }
+  },
+  "price": { "amount": 2500, "currency": "BOB" },
+  "media": [
+    { "type": "image", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Madidi%20park.JPG?width=800" }
+  ],
+  "places": []
+}

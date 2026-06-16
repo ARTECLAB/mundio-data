@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "agency": {
+    "name": "Illimani Tours Bolivia",
+    "logoUrl": "https://ui-avatars.com/api/?name=Illimani+Tours&size=256&background=0E7C66&color=ffffff&bold=true&format=png",
+    "primaryColorHex": "#0E7C66",
+    "paymentQrUrl": "https://api.qrserver.com/v1/create-qr-code/?size=320x320&data=Pago%20Illimani%20Tours%20Bolivia",
+    "contacts": [
+      { "name": "Reservas", "whatsapp": "+59171234567" },
+      { "name": "Atención al cliente", "whatsapp": "+59172345678" }
+    ],
+    "reservationMessageTemplate": {
+      "es": "¡Hola Illimani Tours! 🏔️✨ Me interesó el tour \"{tourName}\" ({price}). ¿Me ayudan a reservar mi lugar? 😊",
+      "en": "Hi Illimani Tours! 🏔️✨ I'm interested in the \"{tourName}\" tour ({price}). Could you help me book my spot? 😊"
+    },
+    "defaultLanguage": "es",
+    "supportedLanguages": ["es", "en"]
+  },
+  "dataManifestUrl": "https://TU-USUARIO.github.io/illimani-data/data/manifest.json"
+}

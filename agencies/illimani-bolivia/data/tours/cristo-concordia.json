@@ -1,0 +1,13 @@
+{
+  "id": "cristo-concordia",
+  "geometry": { "type": "point", "coordinates": [{ "lat": -17.3895, "lng": -66.1380 }] },
+  "i18n": {
+    "es": { "name": "Cristo de la Concordia", "description": "Una de las estatuas de Cristo más grandes del mundo (40 m con pedestal) corona el cerro San Pedro sobre Cochabamba. Sube en teleférico o por sus 1.399 escalones y disfruta de una vista panorámica de la 'Ciudad de la Eterna Primavera' y sus valles." },
+    "en": { "name": "Cristo de la Concordia", "description": "One of the world's largest statues of Christ (40 m with pedestal) crowns Cerro San Pedro above Cochabamba. Ride the cable car or climb its 1,399 steps and enjoy a panoramic view of the 'City of Eternal Spring' and its valleys." }
+  },
+  "price": { "amount": 100, "currency": "BOB" },
+  "media": [
+    { "type": "image", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cristo%20de%20la%20Concordia%20Cochabamba%20Bolivia.jpg?width=800" }
+  ],
+  "places": []
+}

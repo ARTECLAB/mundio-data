@@ -1,0 +1,13 @@
+{
+  "id": "tiwanaku",
+  "geometry": { "type": "point", "coordinates": [{ "lat": -16.5547, "lng": -68.6733 }] },
+  "i18n": {
+    "es": { "name": "Tiwanaku", "description": "El centro espiritual de una civilización que floreció mil años antes que los incas. Contempla la enigmática Puerta del Sol, tallada en un solo bloque de andesita, el templo de Kalasasaya y los monolitos que aún guardan secretos astronómicos. Patrimonio de la Humanidad de la UNESCO." },
+    "en": { "name": "Tiwanaku", "description": "The spiritual heart of a civilization that flourished a thousand years before the Incas. Behold the enigmatic Gate of the Sun, carved from a single andesite block, the Kalasasaya temple and the monoliths that still guard astronomical secrets. A UNESCO World Heritage Site." }
+  },
+  "price": { "amount": 250, "currency": "BOB" },
+  "media": [
+    { "type": "image", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Puerta%20del%20sol%20Tiwanaku.jpg?width=800" }
+  ],
+  "places": []
+}

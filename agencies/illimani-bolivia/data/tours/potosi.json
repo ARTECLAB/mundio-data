@@ -1,0 +1,13 @@
+{
+  "id": "potosi",
+  "geometry": { "type": "point", "coordinates": [{ "lat": -19.5892, "lng": -65.7533 }] },
+  "i18n": {
+    "es": { "name": "Potosí y el Cerro Rico", "description": "La 'Villa Imperial' que con la plata del Cerro Rico financió al imperio español y llegó a ser una de las ciudades más ricas del mundo. Recorre su casco colonial Patrimonio de la Humanidad, la Casa Nacional de la Moneda y, si te atreves, las minas que aún laten bajo la montaña a 4.000 m." },
+    "en": { "name": "Potosí & Cerro Rico", "description": "The 'Imperial City' whose silver from Cerro Rico bankrolled the Spanish empire and made it one of the richest cities in the world. Explore its World Heritage colonial center, the National Mint and, if you dare, the mines still pulsing beneath the mountain at 4,000 m." }
+  },
+  "price": { "amount": 280, "currency": "BOB" },
+  "media": [
+    { "type": "image", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/20170808%20Bolivia%201416%2B20%20Potos%C3%AD%20sRGB%20%2837949205862%29.jpg?width=800" }
+  ],
+  "places": []
+}

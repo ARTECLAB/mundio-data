@@ -19,6 +19,6 @@
         { "id": "mx-bcs", "name": { "es": "Baja California Sur", "en": "Baja California Sur" }, "tours": ["tours/cabo-arco.json"] },
         { "id": "mx-cdmx", "name": { "es": "Ciudad de México", "en": "Mexico City" }, "tours": ["tours/xochimilco.json", "tours/cdmx-ruta-dia.json"] }
       ]
-    }
+    } 
   ]
 }

@@ -1,0 +1,13 @@
+{
+  "id": "camino-de-la-muerte",
+  "geometry": { "type": "point", "coordinates": [{ "lat": -16.2903, "lng": -67.8271 }] },
+  "i18n": {
+    "es": { "name": "Camino de la Muerte (Los Yungas)", "description": "La carretera más famosa de Bolivia: 64 km de descenso vertiginoso desde los 4.650 m de La Cumbre hasta los cálidos Yungas. Pedalea en bicicleta entre acantilados, cascadas y selva nubosa en una de las aventuras más adrenalínicas de Sudamérica, siempre con guías expertos y equipo de seguridad." },
+    "en": { "name": "Death Road (The Yungas)", "description": "Bolivia's most famous road: a dizzying 64 km descent from 4,650 m at La Cumbre down to the warm Yungas. Mountain-bike past cliffs, waterfalls and cloud forest on one of South America's most adrenaline-fueled adventures, always with expert guides and safety gear." }
+  },
+  "price": { "amount": 650, "currency": "BOB" },
+  "media": [
+    { "type": "image", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Camino%20de%20los%20Yungas%20Bolivia.jpg?width=800" }
+  ],
+  "places": []
+}

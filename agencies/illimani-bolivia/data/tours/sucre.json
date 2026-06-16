@@ -1,0 +1,13 @@
+{
+  "id": "sucre",
+  "geometry": { "type": "point", "coordinates": [{ "lat": -19.0475, "lng": -65.2600 }] },
+  "i18n": {
+    "es": { "name": "Sucre, la Ciudad Blanca", "description": "La capital constitucional y la ciudad más bella de Bolivia, donde nació la independencia en 1825. Sus fachadas blancas inmaculadas, conventos e iglesias coloniales le valen el nombre de 'Ciudad Blanca', Patrimonio de la Humanidad. Visita la Casa de la Libertad, cuna de la república." },
+    "en": { "name": "Sucre, the White City", "description": "Bolivia's constitutional capital and most beautiful city, where independence was born in 1825. Its immaculate white façades, convents and colonial churches earn it the name 'White City', a UNESCO World Heritage Site. Visit the Casa de la Libertad, birthplace of the republic." }
+  },
+  "price": { "amount": 200, "currency": "BOB" },
+  "media": [
+    { "type": "image", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Casa%20de%20la%20Libertad%20Sucre.jpg?width=800" }
+  ],
+  "places": []
+}

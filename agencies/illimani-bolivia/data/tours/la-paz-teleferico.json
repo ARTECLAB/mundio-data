@@ -1,0 +1,14 @@
+{
+  "id": "la-paz-teleferico",
+  "geometry": { "type": "point", "coordinates": [{ "lat": -16.4955, "lng": -68.1336 }] },
+  "i18n": {
+    "es": { "name": "La Paz y Mi Teleférico", "description": "La sede de gobierno más alta del mundo, encajada en un cañón a 3.600 m. Sobrevuela la ciudad en Mi Teleférico —la red de cable aéreo urbano más grande del planeta— con vistas al imponente Illimani. Mercados, calles empinadas y la energía vibrante de una urbe aymara y moderna." },
+    "en": { "name": "La Paz & the Cable Car", "description": "The world's highest seat of government, set in a canyon at 3,600 m. Glide over the city aboard Mi Teleférico —the planet's largest urban cable-car network— with views of the towering Illimani. Markets, steep streets and the vibrant energy of an Aymara and modern metropolis." }
+  },
+  "price": { "amount": 150, "currency": "BOB" },
+  "media": [
+    { "type": "image", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/La%20Paz%2C%20Teleferico-%20Linea%20Amarilla.JPG?width=800" },
+    { "type": "youtube", "videoId": "dQw4w9WgXcQ" }
+  ],
+  "places": []
+}

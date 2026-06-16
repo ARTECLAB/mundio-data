@@ -1,0 +1,13 @@
+{
+  "id": "isla-del-sol",
+  "geometry": { "type": "point", "coordinates": [{ "lat": -16.0206, "lng": -69.1764 }] },
+  "i18n": {
+    "es": { "name": "Lago Titicaca e Isla del Sol", "description": "El lago navegable más alto del mundo (3.812 m) y cuna de la civilización inca. Navega sus aguas color zafiro hasta la Isla del Sol, donde según la leyenda nació el dios Sol. Camina entre ruinas incas, comunidades aymaras y terrazas milenarias con los Andes nevados de fondo." },
+    "en": { "name": "Lake Titicaca & Island of the Sun", "description": "The world's highest navigable lake (3,812 m) and cradle of the Inca civilization. Sail its sapphire waters to the Island of the Sun, the legendary birthplace of the Sun god. Walk among Inca ruins, Aymara communities and ancient terraces, with the snow-capped Andes behind you." }
+  },
+  "price": { "amount": 350, "currency": "BOB" },
+  "media": [
+    { "type": "image", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Lake%20Titicaca%20Panorama.JPG?width=800" }
+  ],
+  "places": []
+}

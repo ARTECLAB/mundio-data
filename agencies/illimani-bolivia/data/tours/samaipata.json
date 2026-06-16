@@ -1,0 +1,13 @@
+{
+  "id": "samaipata",
+  "geometry": { "type": "point", "coordinates": [{ "lat": -18.1784, "lng": -63.8190 }] },
+  "i18n": {
+    "es": { "name": "El Fuerte de Samaipata", "description": "La roca tallada más grande del mundo y centro ceremonial de tres culturas (chané, inca y española). Patrimonio de la Humanidad rodeado de valles verdes, a medio camino entre los Andes y la Amazonía. Ideal para combinar historia, naturaleza y el cercano Parque Nacional Amboró." },
+    "en": { "name": "El Fuerte de Samaipata", "description": "The world's largest carved rock and ceremonial center of three cultures (Chané, Inca and Spanish). A UNESCO World Heritage Site surrounded by green valleys, midway between the Andes and the Amazon. Perfect for combining history, nature and the nearby Amboró National Park." }
+  },
+  "price": { "amount": 320, "currency": "BOB" },
+  "media": [
+    { "type": "image", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/El%20Fuerte%20de%20Samaipata%20from%20the%20viewing%20platform.jpg?width=800" }
+  ],
+  "places": []
+}

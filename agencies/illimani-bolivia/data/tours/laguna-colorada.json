@@ -1,0 +1,13 @@
+{
+  "id": "laguna-colorada",
+  "geometry": { "type": "point", "coordinates": [{ "lat": -22.1880, "lng": -67.7920 }] },
+  "i18n": {
+    "es": { "name": "Laguna Colorada", "description": "Una laguna de aguas rojas como la sangre, salpicada de islas de bórax blanco, en la remota Reserva Eduardo Avaroa a más de 4.000 m. Cientos de flamencos andinos —entre ellos el rarísimo flamenco de James— tiñen de rosa este paisaje surrealista de volcanes, géiseres y desierto." },
+    "en": { "name": "Laguna Colorada", "description": "A blood-red lagoon dotted with white borax islands, in the remote Eduardo Avaroa Reserve at over 4,000 m. Hundreds of Andean flamingos —including the very rare James's flamingo— turn this surreal landscape of volcanoes, geysers and desert pink." }
+  },
+  "price": { "amount": 1800, "currency": "BOB" },
+  "media": [
+    { "type": "image", "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Andean%20Flamingos%20Laguna%20Colorada%20Bolivia%20Luca%20Galuzzi%202006.jpg?width=800" }
+  ],
+  "places": []
+}
